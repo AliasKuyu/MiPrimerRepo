@@ -3,3 +3,4 @@
 Esta es la descripción de mi primer Repo
 
 autor: Isaias Noguera
+CoAutor: Paz Aracely
